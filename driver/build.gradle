@@ -52,4 +52,6 @@ dependencies {
     api 'com.geyifeng.immersionbar:immersionbar-ktx:3.2.2'
     //endregion
     api 'com.blankj:utilcodex:1.31.0'
+
+    api 'com.github.JessYanCoding:AndroidAutoSize:v1.2.1'
 }
