@@ -56,6 +56,9 @@ implementation 'com.github.liangjingkanji:Engine:0.0.72'
         Driver.initialize(this)
     }
 }
+
+别放了manifest加上
+android:name=".App"
 ```
 3.开始使用
 
