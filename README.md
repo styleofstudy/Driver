@@ -35,7 +35,7 @@ dependencyResolutionManagement {
 ```
 然后在 module 的 build.gradle 添加依赖框架  
 ```
-implementation 'com.github.styleofstudy:Driver:v1.0.0'
+implementation 'com.github.styleofstudy:Driver:v1.0.1'
 
 ```
 ## 用法
